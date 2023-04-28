@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Julee&family=Montserrat:wght@500&display=swap');
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#divForm{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    background-color: #dbe5eb;
+    border-radius: 9px;
+    width: 550px;
+    height: 480px;
+    top: 240px;
+    right: 200px;
+    left: 650px;
+}
+
+#cadastro{
+    width: 300px;
+    position: absolute;
+    top: 40px;
+    right: 250px;
+    left: 25px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #424242;
+}
+
+#formulario{
+    align-items: center;
+    position: absolute;
+    top: 90px;
+}
+
+#txtNome{
+    font-family: 'Montserrat', sans-serif;
+    color: #333333;
+    border: #b25abf solid 1px;
+    width: 500px;
+    height: 25px;
+}
+
+#txtCpf{
+    font-family: 'Montserrat', sans-serif;
+    color: #333333;
+    border: #b25abf solid 1px;
+    width: 500px;
+    height: 25px;
+}
+
+#date{
+    font-family: 'Montserrat', sans-serif;
+    color: #333333;
+    border: #b25abf solid 1px;
+    width: 500px;
+    height: 25px;
+}
+
+#telTelefone{
+    font-family: 'Montserrat', sans-serif;
+    color: #333333;
+    border: #b25abf solid 1px;
+    width: 500px;
+    height: 25px;
+}
+
+#emEmail{
+    font-family: 'Montserrat', sans-serif;
+    color: #333333;
+    border: #b25abf solid 1px;
+    width: 500px;
+    height: 25px;
+}
+
+#pwdSenha{
+    font-family: 'Montserrat', sans-serif;
+    color: #333333;
+    border: #b25abf solid 1px;
+    width: 500px;
+    height: 25px;
+}
+
+#pwdConfSenha{
+    font-family: 'Montserrat', sans-serif;
+    color: #333333;
+    border: #b25abf solid 1px;
+    width: 500px;
+    height: 25px;
+}
+
+button{
+    cursor: pointer;
+    position: absolute;
+    top: 410px;
+    left: 25px;
+    border: solid 1px;
+    border-color: #ffffff;
+    background-color: #b25abf;
+    text-align: center;
+    height: 30px;
+    width: 500px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+}
+
+html ::-webkit-scrollbar {
+    height: 14px;
+}
+
+html ::-webkit-scrollbar-thumb {
+    border-radius: 50px;
+    background: #770089;
+}
+
+html ::-webkit-scrollbar-track {
+    background: #ededed;
+}

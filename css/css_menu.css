@@ -1,0 +1,354 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#logo{
+    width: 350px;
+    height: 300px;
+}
+
+#divLogoP{
+    top: -100%;
+    align-items: center;
+    position: relative;
+    right: 3px;
+    left: 0px;
+}
+
+#divMenu{
+    position: relative;
+    background-color: #bedef2;
+    width: 1900px;
+    height: 80px;
+    top: -7px;
+}
+
+.divBuscar{
+    position:absolute;
+    top:25%;
+    left:20%;
+    transform: translate(-0%, - 50%);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#lupa{
+    position: absolute;
+    width: 10x;
+    height: 20px;
+    top:15%;
+    left:97%;
+}
+
+.buscar{
+    width: 1150px;
+    background-color: #ededed;
+    height:15px;
+    padding: 15px;
+    border: 2px solid #b25abf;
+    border-radius: 40px;
+}
+
+#CriarEvento{
+    position: absolute;
+    top: 30%;
+    left: 82%;
+    border: solid 2px;
+    border-color: #770089;
+    border-radius: 9px;
+    background-color:#b25abf;
+    text-align: center;
+    height: 25px;
+    width: 150px;
+    font-size: 15px;
+    color: white;
+    cursor: pointer;
+}
+
+#menu_hamburguer{
+    width: 5px;
+    height: 20px;
+    position: absolute;
+    top: 14%;
+    left: 91.5%;
+    background-color: #bedef2;  
+}
+
+#btn_menuHamburguer{
+    background-color: #bedef2; 
+    border: solid; 
+    border-color: #bedef2;
+    width: 50px;
+    height: 50px;
+}
+
+.dropDown{
+    display: none;
+    position: absolute;
+    background-color: #ededed;
+    min-width: 160px;
+    z-index: 1;
+}
+
+.dropDown a{
+    float: none;
+    color: black;
+    padding: 10px 10px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropDown a:hover{
+    background-color: #bedef2;
+}
+
+.show{
+    display: block;
+}
+
+#perfil{
+    width: 5px;
+    height: 20px;
+    position: absolute;
+    top: 14%;
+    left: 95%;
+    background-color: #bedef2;      
+}
+
+#btn_perfil{
+    background-color: #bedef2; 
+    border: solid; 
+    border-color: #bedef2;
+    width: 50px;
+    height: 50px;
+}
+
+.EventosR{
+    font-weight: bold;
+    font-size: 25px;
+    color: #424242;
+    position: absolute;
+    top: 15%;
+    left: 3.8%;
+}
+
+.barraE{
+    margin-top: 20px;
+    background-color: #dccce0;
+    border-radius: 13px;
+    width: 1750px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    overflow:auto; 
+}
+
+.evento{
+    width: 150px;
+    height: 100px;
+    border-radius: 9px;
+    margin-left: 35px;
+    border: solid 2px;
+    border-color: #770089;
+    cursor: pointer;
+}
+
+#MyEventos{
+    font-weight: bold;
+    font-size: 50px;
+    color: #770089;
+    position: absolute;
+    top: 370px;
+    left: 3.8%;
+}
+
+#barraMyE{
+    margin-top: 20px;
+    background-color: #dccce0;
+    border-radius: 13px;
+    width: 975px;
+    height: 350px;
+    display: flex;
+    /*overflow:auto;*/
+}
+
+.evento2{
+    width: 150px;
+    height: 100px;
+    border-radius: 9px;
+    margin-left: 35px;
+    border: solid 2px;
+    border-color: #770089;
+    cursor: pointer;
+    position: relative;
+    top: 50px;
+}
+
+#favorito14{
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    top: 200px;
+    left: 40px;
+    cursor: pointer;
+}
+
+#favorito15{
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    top: 200px;
+    left: 230px;
+    cursor: pointer;
+}
+
+#favorito16{
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    top: 200px;
+    left: 420px;
+    cursor: pointer;
+}
+
+#favorito17{
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    top: 200px;
+    left: 610px;
+    cursor: pointer;
+}
+
+#favorito18{
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    top: 200px;
+    left: 800px;
+    cursor: pointer;
+}
+
+#favorito19{
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    top: 350px;
+    left: 40px;
+    cursor: pointer;
+}
+
+#favorito20{
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    top: 350px;
+    left: 230px;
+    cursor: pointer;
+}
+
+#favorito21{
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    top: 350px;
+    left: 420px;
+    cursor: pointer;
+}
+
+#favorito22{
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    top: 350px;
+    left: 610px;
+    cursor: pointer;
+}
+
+#favorito23{
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    top: 350px;
+    left: 800px;
+    cursor: pointer;
+}
+
+.evento2_2{
+    width: 150px;
+    height: 100px;
+    border-radius: 9px;
+    margin-left: 35px;
+    border: solid 2px;
+    border-color: #770089;
+    cursor: pointer;
+    position: relative;
+    top: 200px;
+    left: -943px
+}
+
+#EventosM{
+    font-weight: bold;
+    font-size: 32px;
+    color: #770089;
+    position: absolute;
+    top: 370px;
+    left: 1150px;
+}
+
+.container {
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+}
+
+.momento{
+    margin-top: 10px;
+    width: 500px;
+    height: 250px;
+    display: none;
+}
+  
+.active {
+    background-color: #ededed;
+}
+
+.desaparecer {
+    animation-name: fade;
+    animation-duration: 2s;
+}
+  
+@keyframes fade {
+    from {opacity: .5}
+    to {opacity: 1}
+}
+
+.evento3{
+    width: 725px;
+    height: 430px;
+    margin-left: 35px;
+    cursor: pointer;
+    position: relative;
+    top: 10px;
+    left: -32px;
+    border: 3px solid;
+    border-radius: 5px;
+    border-color: #770089;
+}
+
+html ::-webkit-scrollbar {
+    height: 14px;
+}
+
+html ::-webkit-scrollbar-thumb {
+    border-radius: 50px;
+    background: #770089;
+}
+
+html ::-webkit-scrollbar-track {
+    background: #ededed;
+}

@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Julee&family=Montserrat:wght@500&display=swap');
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+  
+#logo{
+    width: 650px;
+    height: 600px;
+}
+
+#divLogo{
+    align-items: center;
+    position: absolute;
+    top: -60px;
+    right: 150px;
+    left: 590px;
+}
+
+#divForm{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    background-color: #9fcde8;
+    border: 2px solid #86b9d7;
+    border-radius: 9px;
+    width: 350px;
+    height: 200px;
+    top: 400px;
+    right: 200px;
+    left: 747px;
+}
+
+#formulario{
+    align-items: center;
+    position: absolute;
+    top: 40px;
+}
+
+#emEmail{
+    font-family: 'Montserrat', sans-serif;
+    color: #333333;
+    border: #b25abf solid 1px;
+    width: 300px;
+    height: 25px;
+}
+
+#pwdSenha{
+    font-family: 'Montserrat', sans-serif;
+    color: #333333;
+    border: #b25abf solid 1px;
+    width: 300px;
+    height: 25px;
+}
+
+button{
+    cursor: pointer;
+    position: absolute;
+    top: 140px;
+    left: 25px;
+    border: solid 1px;
+    border-color: #ffffff;
+    background-color: #b25abf;
+    text-align: center;
+    height: 25px;
+    width: 300px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+}
+
+#recuperacao{
+    position: relative;
+    color: black;
+    top: 470px;
+    right: 200px;
+    left: 845px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+#cadastrar{
+    position: relative;
+    color: #b25abf;
+    top: 535px;
+    right: 200px;
+    left: 710px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+html ::-webkit-scrollbar {
+    height: 14px;
+}
+
+html ::-webkit-scrollbar-thumb {
+    border-radius: 50px;
+    background: #770089;
+}
+
+html ::-webkit-scrollbar-track {
+    background: #ededed;
+}
