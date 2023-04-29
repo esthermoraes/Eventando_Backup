@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 /* importando a fonte Montserrat do Google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Julee&family=Montserrat:wght@500&display=swap');
 
+/* Colocando a fonte em toda a tela html*/
 body{
-    font-family: 'Montserrat', sans-serif; /* fonte do site*/
-
-   
+    font-family: 'Montserrat', sans-serif;
 }
+
  /* Definindo a altura e largura da logo"*/
 #logo{
     width: 350px;
@@ -55,6 +55,7 @@ body{
      
 
 }
+/* Definindo a estilização do elemento com ID "buscar"*/
 
 .buscar{
     width: 1150px;
@@ -63,7 +64,7 @@ body{
     padding: 15px;
     border: 2px solid #b25abf;
     border-radius: 40px;
-     /* Definindo a estilização do elemento com ID "buscar"*/
+     
 
 }
     /* Definindo a estilização do elemento com ID "#CriarEvento"{
@@ -408,18 +409,24 @@ body{
     /* Essa propriedade define a duração de 2s; */
     animation-duration: 2s;
 }
-  /*Esta regra define o nome da animação e as etapas que ela segue.
-   Essa etapa define o estilo do elemento no início da animação, no momento em que a animação começa. Nesse caso, o opacity (opacidade) do 
-   elemento é definido como 0,5, o que significa que ele será ligeiramente transparente. Essa etapa define o estilo do elemento no final da animação,
-     quando ela termina. Nesse caso, o opacity do elemento 
-     é definido como 1, o que significa que ele será completamente opaco.*/
+  /*Esta regra define o nome da animação e as etapas que ela segue.*/
+  from {opacity: .5}  
+
+   /*  Essa etapa define o estilo do elemento no início da animação, no momento em que a 
+    animação começa. Nesse caso, o opacity (opacidade) do 
+    elemento é definido como 0,5, o que significa que ele será ligeiramente transparente. */
 
 @keyframes fade {
     from {opacity: .5}  
+
+     /*  Essa etapa define o estilo do elemento no final da animação,
+     quando ela termina. Nesse caso, o opacity do elemento 
+     é definido como 1, o que significa que ele será completamente opaco.*/
     to {opacity: 1}
 }
-
 /* Definindo a estilização do elemento com ID "evento3"*/
+
+
 .evento3{
     width: 725px;
     height: 430px;
@@ -432,8 +439,7 @@ body{
     border-radius: 5px;
     border-color: #770089;
 }
-
-/* Definindo a estilização do html scrollbar*/
+ /* Definindo a estilização do html scrollbar*/
 html ::-webkit-scrollbar {
     height: 14px;
 }
