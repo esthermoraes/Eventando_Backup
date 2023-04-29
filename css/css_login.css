@@ -1,14 +1,18 @@
+/* importando a fonte Montserrat do Google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Julee&family=Montserrat:wght@500&display=swap');
 
+/* Colocando a fonte em toda a tela html*/
 body{
     font-family: 'Montserrat', sans-serif;
 }
-  
+
+/* Definindo a estilização do elemento com ID "logo"*/
 #logo{
     width: 650px;
     height: 600px;
 }
 
+/* Definindo a estilização do elemento com ID "divLogo"*/
 #divLogo{
     align-items: center;
     position: absolute;
@@ -17,6 +21,9 @@ body{
     left: 590px;
 }
 
+/* Essa parte  estiliza um elemento div com o ID "divForm", criando um contêiner de formulário  defininindo suas características,
+dimensões definidas e uma posição relativa com um deslocamento específico para cima, para a direita e para a esquerda em relação 
+ao seu elemento pai. O layout flexível é usado para centralizar os elementos filho vertical e horizontalmente no contêiner do formulário.*/
 #divForm{
     display: flex;
     align-items: center;
@@ -32,12 +39,14 @@ body{
     left: 747px;
 }
 
+/* Definindo a estilização do elemento com ID "formulario"*/
 #formulario{
     align-items: center;
     position: absolute;
     top: 40px;
 }
 
+/* Definindo a estilização do elemento com ID "emEmail"*/
 #emEmail{
     font-family: 'Montserrat', sans-serif;
     color: #333333;
@@ -46,6 +55,7 @@ body{
     height: 25px;
 }
 
+/* Definindo a estilização do elemento com ID "pwdSenha"*/
 #pwdSenha{
     font-family: 'Montserrat', sans-serif;
     color: #333333;
@@ -54,6 +64,7 @@ body{
     height: 25px;
 }
 
+/* Definindo a estilização do elemento button*/
 button{
     cursor: pointer;
     position: absolute;
@@ -71,6 +82,7 @@ button{
     color: white;
 }
 
+/* Definindo a estilização do elemento com ID "recuperacao"*/
 #recuperacao{
     position: relative;
     color: black;
@@ -81,6 +93,7 @@ button{
     font-weight: bold;
 }
 
+/* Definindo a estilização do elemento com ID "cadastrar"*/
 #cadastrar{
     position: relative;
     color: #b25abf;
@@ -91,6 +104,7 @@ button{
     font-weight: bold;
 }
 
+/* Definindo a estilização do html scrollbar*/
 html ::-webkit-scrollbar {
     height: 14px;
 }
