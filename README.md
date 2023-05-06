@@ -1,13 +1,13 @@
 # TRABALHO DE PI:  Eventando
-Trabalho desenvolvido durante a disciplina de Banco de Dados do Integrado
+ Trabalho desenvolvido durante a disciplina de Projeto Integrador do Integrado
 
 # Sumário
 
 ### 1. COMPONENTES<br>
-Integrantes do grupo<br>
-primeiro_componente_do_grupo:email_primeiro_componente@dominio.com<br>
-segundo_componente_do_grupo:email_segundo_componente@dominio.com<br>
-...
+Integrantes do grupo:<br>
+Esther Moraes Nascimento - esther.ifes2021@gmail.com<br>
+Lorena Toraes dos Santos - lorenatoraesdossantos@gmail.com<br>
+Sofia Andrade Nascimento - andradesoso17@gmail.com
 
 ### 2.MINIMUNDO<br>
 Descrever o mini-mundo! (Não deve ser maior do que 30 linhas, se necessário resumir para justar)
