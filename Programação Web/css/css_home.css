@@ -6,6 +6,15 @@ body{
     font-family: 'Montserrat', sans-serif; 
 }
 
+/* Definindo a estilização do elemento com ID "divMenu*/
+#Cabecalho{
+    position: relative;
+    background-color: #bedef2;
+    width: 1890px;
+    height: 80px;
+    top: -7px;
+}
+
 /* Definindo a estilização do elemento com ID "logo*/
 #logo{
     width: 350px;
@@ -19,15 +28,6 @@ body{
     position: relative;
     right: 3px;
     left: 0px;
-}
-
-/* Definindo a estilização do elemento com ID "divMenu*/
-#divMenu{
-    position: relative;
-    background-color: #bedef2;
-    width: 1890px;
-    height: 80px;
-    top: -7px;
 }
 
 /* Definindo a estilização do elemento com ID "divBuscar*/

@@ -13,7 +13,7 @@
 <!-- Chamamos o arquivo JAVA para colacar as funcinalidades de alguns elementos da página -->
 <script src = 'js/js_menu.js' defer></script>
 <!-- Criamos a divMenu que dentro dela tem a logo, a barra de bucar, o botão de se cadastrar e o de logar. -->
-	<div id = "divMenu" name = "divMenu">
+	<header id = "Cabecalho" name = "Cabecalho">
 		<div id = "divLogoP" name = "divLogoP">
 			<img id = logo src = "img/logo.png">
 		</div> <br> <br>
@@ -27,7 +27,7 @@
 
 		<button id = "CriarEvento" name = "CriarEvento" onclick = "CriarEvento()"> Criar Evento </button>
 
-        <header id = "menu_hamburguer">
+        <div id = "menu_hamburguer">
 			<button id = "btn_menuHamburguer" onclick="mDropDown()" > <img src="img/menu_hamburguer.png"></button>
             <!-- Definimos quais seriam os elementos presentes no menu DropDown. -->
             <div id = "dropDown" class = "dropDown">
@@ -35,12 +35,12 @@
                 <a href = #> Sobre Nós </a>
                 <a href = #> Ajuda </a>
             </div>
-        </header>
+        </div>
 		
         <div id = "perfil">
 			<button id = "btn_perfil" type="button" > <img src="img/perfil.png"></button>
 		</div>
-	</div>	
+	</header>	
 
 <!-- Criamos uma div, onde nela vamos ter uma outra div onde tem as imagens de vários eventos -->
     <div class="EventosR">
