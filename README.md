@@ -24,7 +24,7 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
 #### 3.1. EAP - Estrutura Analítica do Projeto
 a) ![EAP](https://github.com/esthermoraes/EVENTANDO/blob/main/Desenvolvimento%20do%20sistema/img_EAP.png?raw=true "EAP") 
 b.1) ![Dicionário EAP](https://github.com/esthermoraes/EVENTANDO/blob/main/Desenvolvimento%20do%20sistema/img_dicionarioEAP1.png?raw=true "Dicionário EAP 1")
-b.2) ![Dicionário EAP]https://github.com/esthermoraes/EVENTANDO/blob/main/Desenvolvimento%20do%20sistema/img_dicionarioEAP2.png?raw=true "Dicionário EAP 2") 
+b.2) ![Dicionário EAP](https://github.com/esthermoraes/EVENTANDO/blob/main/Desenvolvimento%20do%20sistema/img_dicionarioEAP2.png?raw=true "Dicionário EAP 2") 
 
 #### 3.2. Requisitos funcionais e não funcionais
 Incluir informações de: Identificador , Descrição e Prioridade
