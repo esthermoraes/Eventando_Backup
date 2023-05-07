@@ -21,14 +21,12 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
 ### 3. PMC<br>
 ![PMC](https://github.com/esthermoraes/EVENTANDO/blob/main/Desenvolvimento%20do%20sistema/img_PMC.png?raw=true "PMC")
 
-#### 3.1. EAP - Estrutura Analítica do Projeto
-a) ![EAP](https://github.com/esthermoraes/EVENTANDO/blob/main/Desenvolvimento%20do%20sistema/img_EAP.png?raw=true "EAP") 
-b.1) ![Dicionário EAP](https://github.com/esthermoraes/EVENTANDO/blob/main/Desenvolvimento%20do%20sistema/img_dicionarioEAP1.png?raw=true "Dicionário EAP 1")
+#### 3.1. EAP - Estrutura Analítica do Projeto<br>
+a) ![EAP](https://github.com/esthermoraes/EVENTANDO/blob/main/Desenvolvimento%20do%20sistema/img_EAP.png?raw=true "EAP") <br>
+b.1) ![Dicionário EAP](https://github.com/esthermoraes/EVENTANDO/blob/main/Desenvolvimento%20do%20sistema/img_dicionarioEAP1.png?raw=true "Dicionário EAP 1") <br>
 b.2) ![Dicionário EAP](https://github.com/esthermoraes/EVENTANDO/blob/main/Desenvolvimento%20do%20sistema/img_dicionarioEAP2.png?raw=true "Dicionário EAP 2") 
 
-#### 3.2. Requisitos funcionais e não funcionais
-Incluir informações de: Identificador , Descrição e Prioridade
-Exemplos:<br>
+#### 3.2. Requisitos funcionais e não funcionais<br>
 a) <img src="https://raw.githubusercontent.com/discproint/template_projeto_integrador/main/arquivos/requisitos_funcionais.png" width="350" height="100" /> <br>
 b) <img src="https://raw.githubusercontent.com/discproint/template_projeto_integrador/main/arquivos/requisitos_nao_funcionais.png" width="350" height="190" /> <br>
 
