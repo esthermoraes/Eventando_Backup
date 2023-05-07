@@ -1,7 +1,7 @@
 # TRABALHO DE PI:  Eventando
  Trabalho desenvolvido durante a disciplina de Projeto Integrador do Integrado
 
-# Sumário
+## Sumário
 
 ### 1. COMPONENTES<br>
 Integrantes do grupo:<br>
@@ -20,20 +20,20 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
 ### 3. PMC<br>
 ![PMC](https://github.com/esthermoraes/EVENTANDO/blob/main/Desenvolvimento%20do%20sistema/img_PMC.png?raw=true "PMC")
 
-#### 3.1. EAP - Estrutura Analítica do Projeto<br>
+#### 3.1. EAP - ESTRUTURA ANALÍTICA DO PROJETO<br>
 a) ![EAP](https://github.com/esthermoraes/EVENTANDO/blob/main/Desenvolvimento%20do%20sistema/img_EAP.png?raw=true "EAP")
 b.1) ![Dicionário EAP](https://github.com/esthermoraes/EVENTANDO/blob/main/Desenvolvimento%20do%20sistema/img_dicionarioEAP1.png?raw=true "Dicionário EAP 1")
 b.2) ![Dicionário EAP](https://github.com/esthermoraes/EVENTANDO/blob/main/Desenvolvimento%20do%20sistema/img_dicionarioEAP2.png?raw=true "Dicionário EAP 2") 
 
-#### 3.2. Requisitos funcionais e não funcionais<br>
+#### 3.2. REQUISITOS FUNCIONAIS E NÃO FUNCIONAIS<br>
 a) ![RF](https://github.com/esthermoraes/EVENTANDO/blob/main/Desenvolvimento%20do%20sistema/img_requisitosFuncionais.png?raw=true "REQUISITOS FUNCIONAIS")
 b) ![RNF](https://github.com/esthermoraes/EVENTANDO/blob/main/Desenvolvimento%20do%20sistema/img_requisitosNaoFuncionais.png?raw=true "REQUISITOS NÃO FUNCIONAIS")
 
-#### 3.3 Validação da Ideia.
+#### 3.3. VALIDAÇÃO DA IDEIA<br>
 a) *Link do formulário desenvolvido:* <br> https://forms.gle/N2CqQ6gud3GgbyrM7 <br>
 b) *Link para a apresentação dos resultados obtidos:* <br> https://docs.google.com/presentation/d/1XUWC29nwCR0yTu5YozbTAOvrGHfRM9QFxhOgyI0ivOI/edit?usp=sharing
 
-### 4. Personas e Histórias de usuário<br>
+### 4. PERSONAS E HISTÓRIAS DO USUÁRIO<br>
 <img src="https://neilpatel.com/wp-content/uploads/2019/07/exemplo-carlos.png" Personas src="https://neilpatel.com/wp-content/uploads/2019/07/exemplo-carlos.png" width="500" height="500" /> <br>
 a) inclusão dos Persons desenvolvidos pelo grupo<br>
 <br>
@@ -49,11 +49,11 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ![Alt text](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/balsamiq.png?raw=true "Title")
 ![Arquivo PDF do Protótipo Balsamiq feito para Empresa Devcom](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/EmpresaDevcom.pdf?raw=true "Empresa Devcom")
 
-#### 5.1 PROTÓTIPO DO SISTEMA MOBILE
+#### 5.1. PROTÓTIPO DO SISTEMA MOBILE<br>
 
-#### 5.2 PROTÓTIPO DO SISTEMA WEB
+#### 5.2. PROTÓTIPO DO SISTEMA WEB<br>
 
-#### 5.3 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM OS SISTEMA WEB/MOBILE PROPOSTOS?
+#### 5.3. QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM OS SISTEMA WEB/MOBILE PROPOSTOS?<br>
     a) O sistema proposto poderá fornecer quais tipos de relatórios e informaçes? 
     b) Crie uma lista com os 5 principais relatórios que poderão ser obtidos por meio do sistema proposto!
     
@@ -64,7 +64,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 * Relatório com a quantidade de empregados por cada departamento incluindo as seguintes informações: nome do departamento, supervisor e quantidade de empregados alocados no departamento.
 * Relatório de supervisores e supervisionados incluindo as seguintes informações: nome do supervisor e nome do supervisionado.
  
- ### 6.MODELO CONCEITUAL<br>
+ ### 6. MODELO CONCEITUAL<br>
     A) Utilizar a Notação adequada (Preferencialmente utilizar o BR Modelo 3)
     B) O mínimo de entidades do modelo conceitual pare este trabalho será igual a 4.
         * informe quais são as 3 principais entidades do sistema em densenvolvimento
@@ -77,30 +77,29 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
         
 ![Alt text](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/concept_sample.png?raw=true "Modelo Conceitual")
       
-    
-#### 7 Descrição dos dados 
+#### 7. DESCRIÇÃO DOS DADOS<br>
     [objeto]: [descrição do objeto]
     
     EXEMPLO:
     CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
     CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
 
-### 8	RASTREABILIDADE DOS ARTEFATOS<br>
+### 8.	RASTREABILIDADE DOS ARTEFATOS<br>
         a) Historia de usuários vs protótipo (Histórias de Usuário e em qual tela do protótipo aquela HU está sendo realizada).
         b) Protótipo vs Modelo conceitual (Histórias de Usuário e em quais tabelas aquele dado está sendo registrado).
         (modelos devem obrigatoriamente estar em conformidade de rastreabilidade)
 
-### 9	MODELO LÓGICO<br>
+### 9.	MODELO LÓGICO<br>
         a) inclusão do esquema lógico do banco de dados
         b) verificação de correspondencia com o modelo conceitual 
         (não serão aceitos modelos que não estejam em conformidade)
 
-### 10	MODELO FÍSICO<br>
+### 10.	MODELO FÍSICO<br>
         a) inclusão das instruções de criacão das estruturas em SQL/DDL 
         (criação de tabelas, alterações, etc..) 
         
        
-### 11	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
+### 11.	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
         a) inclusão das instruções de inserção dos dados nas tabelas criadas pelo script de modelo físico
         (Drop para exclusão de tabelas + create definição de para tabelas e estruturas de dados 
  <br> + insert para dados a serem inseridos)
@@ -108,25 +107,26 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
         (em caso de falha na restauração o grupo não pontuará neste quesito)
         c) formato .SQL
 
-#### 12 PRINCIPAIS CONSULTAS DO SISTEMA 
+#### 12. PRINCIPAIS CONSULTAS DO SISTEMA<br> 
  Inserir as principais consultas (relativas aos 5 principais relatórios) definidas previamente no iten 3.1 deste template.
  <br>
   a) Você deve apresentar as consultas em formato SQL para cad um dos relatórios.
  <br>
   b) Além da consulta deve ser apresentada uma imagem com o resultado obtido para cada consulta.<br>
 
- ### 13 Gráficos, relatórios, integração com Linguagem de programação e outras solicitações.<br>
+ ### 13. GRÁFICOS, RELATÓRIOS, INTEGRAÇÃO COM LINGUAGEM DE PROGRAMAÇÃO E OUTRAS SOLICITAÇÕES<br>
      OBS: Observe as instruções relacionadas a cada uma das atividades abaixo.<br>
- #### 13.1	Integração com Linguagem de programação; <br>
- #### 13.2	Desenvolvimento de gráficos/relatórios pertinentes, juntamente com demais <br>
- #### solicitações feitas pelo professor. <br>
+ #### 13.1.	INTEGRAÇÃO COM LINGUAGEM DE PROGRAMAÇÃO<br>
+ #### 13.2.	DESENVOLVIMENTO DE GRÁFICOS/RELATÓRIOS PERTINENTES, JUNTAMENTE COM DEMAIS<br>
+ #### 13.3. OUTRAS SOLICITAÇÕES FEITAS PELO PROFESSOR<br>
  
- ### 14 Slides e Apresentação em vídeo. <br>
+ ### 14. SLIDES E APRESENTAÇÃO EM VÍDEO<br>
      OBS: Observe as instruções relacionadas a cada uma das atividades abaixo.<br>
- #### 14.1 Slides; <br>
- #### 14.2 Apresentação em vídeo <br>
+ #### 14.1. SLIDES<br>
+ #### 14.2. APRESENTAÇÃO EM VÍDEO<br>
 
-    
+
+
 ##### About Formatting
     https://help.github.com/articles/about-writing-and-formatting-on-github/
     
