@@ -26,8 +26,8 @@ b.1) ![Dicionário EAP](https://github.com/esthermoraes/EVENTANDO/blob/main/Dese
 b.2) ![Dicionário EAP](https://github.com/esthermoraes/EVENTANDO/blob/main/Desenvolvimento%20do%20sistema/img_dicionarioEAP2.png?raw=true "Dicionário EAP 2") 
 
 #### 3.2. REQUISITOS FUNCIONAIS E NÃO FUNCIONAIS<br>
-a) ![RF](https://github.com/esthermoraes/EVENTANDO/blob/main/Desenvolvimento%20do%20sistema/img_requisitosFuncionais.png?raw=true "REQUISITOS FUNCIONAIS")
-b) ![RNF](https://github.com/esthermoraes/EVENTANDO/blob/main/Desenvolvimento%20do%20sistema/img_requisitosNaoFuncionais.png?raw=true "REQUISITOS NÃO FUNCIONAIS")
+a) ![RF](https://github.com/esthermoraes/EVENTANDO/blob/main/Desenvolvimento%20do%20sistema/img_requisitosFuncionais.png?raw=true "Requisitos Funcionais")
+b) ![RNF](https://github.com/esthermoraes/EVENTANDO/blob/main/Desenvolvimento%20do%20sistema/img_requisitosNaoFuncionais.png?raw=true "Requisitos Não Funcionais")
 
 #### 3.3. VALIDAÇÃO DA IDEIA<br>
 a) *Link do formulário desenvolvido:* <br> https://forms.gle/N2CqQ6gud3GgbyrM7 <br>
