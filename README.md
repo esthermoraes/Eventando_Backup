@@ -39,7 +39,6 @@ a) inclusão dos Persons desenvolvidos pelo grupo<br>
 <br>
 <img src="https://miro.medium.com/max/1400/1*r5GVnOvqpMdxnGUYNRXqbg.png" UserStory src="https://miro.medium.com/max/1400/1*r5GVnOvqpMdxnGUYNRXqbg.png" width="500" height="300" /> <br>
 b) inclusão das Histórias de usuário desenvolvidas pelo grupo
-<br>
 
 ### 5. PROTÓTIPOS DO SISTEMA<br>
 Neste ponto a codificação não e necessária, somente as ideias de telas devem ser desenvolvidas. O princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas e/ou descartadas <br>
@@ -82,7 +81,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
     
     EXEMPLO:
     CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
-    CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
+    CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.
 
 ### 8.	RASTREABILIDADE DOS ARTEFATOS<br>
         a) Historia de usuários vs protótipo (Histórias de Usuário e em qual tela do protótipo aquela HU está sendo realizada).
@@ -112,20 +111,21 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
  <br>
   a) Você deve apresentar as consultas em formato SQL para cad um dos relatórios.
  <br>
-  b) Além da consulta deve ser apresentada uma imagem com o resultado obtido para cada consulta.<br>
+  b) Além da consulta deve ser apresentada uma imagem com o resultado obtido para cada consulta.
 
  ### 13. GRÁFICOS, RELATÓRIOS, INTEGRAÇÃO COM LINGUAGEM DE PROGRAMAÇÃO E OUTRAS SOLICITAÇÕES<br>
      OBS: Observe as instruções relacionadas a cada uma das atividades abaixo.<br>
  #### 13.1.	INTEGRAÇÃO COM LINGUAGEM DE PROGRAMAÇÃO<br>
  #### 13.2.	DESENVOLVIMENTO DE GRÁFICOS/RELATÓRIOS PERTINENTES, JUNTAMENTE COM DEMAIS<br>
- #### 13.3. OUTRAS SOLICITAÇÕES FEITAS PELO PROFESSOR<br>
+ #### 13.3. OUTRAS SOLICITAÇÕES FEITAS PELO PROFESSOR
  
  ### 14. SLIDES E APRESENTAÇÃO EM VÍDEO<br>
      OBS: Observe as instruções relacionadas a cada uma das atividades abaixo.<br>
  #### 14.1. SLIDES<br>
- #### 14.2. APRESENTAÇÃO EM VÍDEO<br>
+ #### 14.2. APRESENTAÇÃO EM VÍDEO
 
-
+<br>
+<br>
 
 ##### About Formatting
     https://help.github.com/articles/about-writing-and-formatting-on-github/
