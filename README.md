@@ -1,5 +1,5 @@
 # TRABALHO DE PI:  Eventando
- Trabalho desenvolvido durante a disciplina de Projeto Integrador do Integrado
+ Trabalho desenvolvido durante a disciplina de Projeto Integrador do Técnico de Informática para Internet Integrado ao Ensino Médio
 
 ## Sumário
 
