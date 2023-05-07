@@ -32,10 +32,10 @@ a) <img src="https://raw.githubusercontent.com/discproint/template_projeto_integ
 b) <img src="https://raw.githubusercontent.com/discproint/template_projeto_integrador/main/arquivos/requisitos_nao_funcionais.png" width="350" height="190" /> <br>
 
 #### 3.3 Validação da Ideia.
-a) Link do formulário desenvolvido
-b) Link para Relatório/Apresentação de resultados obtidos
+a) Link do formulário desenvolvido: https://forms.gle/N2CqQ6gud3GgbyrM7
+b) Link para a apresentação dos resultados obtidos: https://docs.google.com/presentation/d/1XUWC29nwCR0yTu5YozbTAOvrGHfRM9QFxhOgyI0ivOI/edit?usp=sharing
 
-### 4.Personas e Histórias de usuário<br>
+### 4. Personas e Histórias de usuário<br>
 <img src="https://neilpatel.com/wp-content/uploads/2019/07/exemplo-carlos.png" Personas src="https://neilpatel.com/wp-content/uploads/2019/07/exemplo-carlos.png" width="500" height="500" /> <br>
 a) inclusão dos Persons desenvolvidos pelo grupo<br>
 <br>
