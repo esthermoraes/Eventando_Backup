@@ -10,17 +10,18 @@ Lorena Toraes dos Santos - lorenatoraesdossantos@gmail.com<br>
 Sofia Andrade Nascimento - andradesoso17@gmail.com
 
 ### 2. MINIMUNDO<br>
-> Você consegue organizar seus eventos com facilidade? 
-Você tem dificuldades com o tempo na organização de festividades?
-E divulgar o evento, é algo fácil?
-Pensando nisso, desenvolvemos um sistema que ajuda na organização de eventos, sendo possível escolher o tipo de evento que será elaborado, como formatura, reuniões, festas informais, conferências online, entre diversas outras. É possível também, escolher diversos requisitos que são necessários para a elaboração dele, entre eles temos: o local, a atração, a quantidade de convidados, buffet e decoração. Além disso, o sistema possui a opção de enviar os convites gerados para os convidados do evento, contendo o local, data, hora, prazo para confirmação, e se necessário traje e/ou valor do ingresso.
-Essa aplicação, está disponível nas plataformas web por meio de um site e aplicativo mobile. Ela foi pensada para otimizar a sua organização! Contando com uma interface simples e intuitiva para facilitar a utilização.
+Descrever o mini-mundo! (Não deve ser maior do que 30 linhas, se necessário resumir para justar)
+Entrevista com o usuário e identificação dos requisitos.(quando for o caso de sistemas com cliente real)
+Descrição textual das regras de negócio definidas como um subconjunto do mundo real cujos elementos são propriedades que desejamos incluir, processar, armazenar, gerenciar, atualizar, e que descrevem a proposta/solução a ser desenvolvida.
+<br>
+
+> O sistema proposto para a "Devcom Projetos conterá as informacões aqui detalhadas. Dos Projetos serão armazenados o número, nome e cidade. Dos Departamentos serão armazenados o número e nome. O cliente destacou que cada projeto pode ter vários departamentos auxiliando no seu desenvolvimento, e cada departamento pode estar envolvido em vários projetos. Os dados relativos aos empregados que serão armazenados são: rg, nome, cpf, salário, data inicial do salario e supervisor de cada empregado. É importante destacar que cada empregado pode ser supervisionado por outro empregado, e obrigatoriamente deve estar alocado a um único departamento, mas pode gerenciar vários departamentos ou não gerenciar nenhum. Um empregado também pode participar de vários projetos, caso seja necessário, mas não precisa obrigatoriamente estar alocado em algum projeto. Com relação aos dependentes serão armazenadas as informações de nome do dependente, data de nascimento, sexo e grau de parentesco. Cada empregado pode ter vários dependentes, mas um dependente esta associado apenas a um único empregado. Com relação ao histórico de salário devemos armazenar as informações de valor do salário, data de início do salário no período e data final do salário no período. É importante lembrar que cada funcionario pode ter diversos eventos de histórico de salário associados a ele visto que este dado pode ser alterado várias vezes..
  
 ### 3. PMC<br>
 ![PMC](https://github.com/esthermoraes/EVENTANDO/blob/main/Desenvolvimento%20do%20sistema/img_PMC.png?raw=true "PMC")
 
 #### 3.1. EAP - ESTRUTURA ANALÍTICA DO PROJETO<br>
-a) ![EAP](https://github.com/esthermoraes/EVENTANDO/blob/main/Desenvolvimento%20do%20sistema/img_EAP.png?raw=true "EAP")
+a) ![EAP](https://github.com/esthermoraes/EVENTANDO/blob/main/Desenvolvimento%20do%20sistema/img_EAP.png?raw=true "Estrutura Analítica do Projeto")
 b.1) ![Dicionário EAP](https://github.com/esthermoraes/EVENTANDO/blob/main/Desenvolvimento%20do%20sistema/img_dicionarioEAP1.png?raw=true "Dicionário EAP 1")
 b.2) ![Dicionário EAP](https://github.com/esthermoraes/EVENTANDO/blob/main/Desenvolvimento%20do%20sistema/img_dicionarioEAP2.png?raw=true "Dicionário EAP 2") 
 
@@ -63,17 +64,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 * Relatório de supervisores e supervisionados incluindo as seguintes informações: nome do supervisor e nome do supervisionado.
  
  ### 6. MODELO CONCEITUAL<br>
-    A) Utilizar a Notação adequada (Preferencialmente utilizar o BR Modelo 3)
-    B) O mínimo de entidades do modelo conceitual pare este trabalho será igual a 4.
-        * informe quais são as 3 principais entidades do sistema em densenvolvimento
-      (se houverem mais de 3 entidades, pense na importância da entidade para o sistema)       
-    C) Principais fluxos de informação/entidades do sistema (mínimo 2). <br>Dica: normalmente estes fluxos estão associados as tabelas que conterão maior quantidade de dados 
-    D) Qualidade e Clareza
-        Garantir que a semântica dos atributos seja clara no esquema (nomes coerentes com os dados).
-        Criar o esquema de forma a garantir a redução de informação redundante, possibilidade de valores null, 
-        e tuplas falsas (Aplicar os conceitos de normalização abordados).   
-        
-![Alt text](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/concept_sample.png?raw=true "Modelo Conceitual")
+![MC](https://github.com/esthermoraes/Eventando/blob/main/Modelagem%20de%20dados/img_modeloConceitual.png?raw=true "Modelo Conceitual")
       
 ### 7. DESCRIÇÃO DOS DADOS<br>
     [objeto]: [descrição do objeto]
@@ -88,9 +79,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
         (modelos devem obrigatoriamente estar em conformidade de rastreabilidade)
 
 ### 9.	MODELO LÓGICO<br>
-        a) inclusão do esquema lógico do banco de dados
-        b) verificação de correspondencia com o modelo conceitual 
-        (não serão aceitos modelos que não estejam em conformidade)
+![ML](https://github.com/esthermoraes/Eventando/blob/main/Modelagem%20de%20dados/img_modeloLogico.png?raw=true "Modelo Lógico")
 
 ### 10.	MODELO FÍSICO<br>
         a) inclusão das instruções de criacão das estruturas em SQL/DDL 
